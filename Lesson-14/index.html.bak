@@ -1,0 +1,20 @@
+<!DOCTORTYPE.html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title> Lesson-14 </title>
+		<link rel="stylesheet" href="style.css">	
+	</head>
+	<body>
+		<header class="header">
+			<div class="header_logo"></div>
+			<div class="header_name">
+				<span class="m">m</span>
+				<span class="a">a</span>
+				<span class="r">r</span>
+				<span class="i">i</span>
+				<span class="o">o</span>
+			</div>
+		</header>
+	</body>
+</html>	
